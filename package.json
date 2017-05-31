@@ -4,7 +4,7 @@
   "description": "another boting",
   "main": "index.js",
   "scripts": {
-  "start": "node index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/martinezdelprenois/bot4#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3",
+    "express": "4.15.3",
     "request": "^2.81.0"
   }
 }
