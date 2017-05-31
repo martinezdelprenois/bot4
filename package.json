@@ -1,0 +1,27 @@
+{
+  "name": "bot4",
+  "version": "1.0.0",
+  "description": "another boting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinezdelprenois/bot4.git"
+  },
+  "keywords": [
+    "zeus"
+  ],
+  "author": "marto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinezdelprenois/bot4/issues"
+  },
+  "homepage": "https://github.com/martinezdelprenois/bot4#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  }
+}
